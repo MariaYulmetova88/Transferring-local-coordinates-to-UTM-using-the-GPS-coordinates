@@ -9,7 +9,7 @@
 
 #### This tool will enable you to rotate points based on two control points (real-world coordinates). It was used to rotate and transform the below 'original feature points' into UTM coordinates. Try it out. Give suggestions.
 
-![Original Feature Points](https://github.com/MariaYulmetova88/Transferring-local-coordinates-to-UTM-using-the-GPS-coordinates/images/original-feature-points.png "Original Feature Points")
+![Original Feature Points](images/original-feature-points.png "Original Feature Points") 
 
 
 ![Rotated Feature Points](https://github.com/MariaYulmetova88/Transferring-local-coordinates-to-UTM-using-the-GPS-coordinates/images/rotated-feature-points.png "Rotated Feature Points")
